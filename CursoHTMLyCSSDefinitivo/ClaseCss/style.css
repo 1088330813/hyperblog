@@ -1,0 +1,16 @@
+/*Selector por elemento HTML*/
+p {
+    color: blue;
+}
+
+/* Clase */
+
+.parrafo {
+    color: brown;
+}
+
+/* ID */
+
+#texto {
+    color: chartreuse;
+}
